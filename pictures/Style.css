@@ -1,0 +1,22 @@
+h1, h2, h3
+{
+	color: green;
+	font-family: Georgia sans ms;
+}
+
+p
+{
+  font-family: comic sans ms;
+}
+
+#top
+{
+  color: blue;
+  text-align:center;
+}
+
+.head
+{
+  background-color: green;
+
+}
